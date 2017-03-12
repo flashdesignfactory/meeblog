@@ -2,25 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://flashdesignfactory.github.io/mee/post/index.xml</link>
+    <link>https://flashdesignfactory.github.io/post/index.xml</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://flashdesignfactory.github.io/mee/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>jp-ja</language>
+    <atom:link href="https://flashdesignfactory.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>https://flashdesignfactory.github.io/mee/post/firstpost/</link>
+      <link>https://flashdesignfactory.github.io/post/firstpost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://flashdesignfactory.github.io/mee/post/firstpost/</guid>
+      <guid>https://flashdesignfactory.github.io/post/firstpost/</guid>
       <description>&lt;p&gt;date        = &amp;ldquo;2015-06-21T11:27:27-04:00&amp;rdquo;
 title       = &amp;ldquo;記事タイトル&amp;rdquo;
 description = &amp;ldquo;記事の概要&amp;rdquo;
 tags        = [&amp;ldquo;Development&amp;rdquo;, &amp;ldquo;Go&amp;rdquo;, &amp;ldquo;profiling&amp;rdquo;]
 topics      = [&amp;ldquo;Development&amp;rdquo;, &amp;ldquo;Go&amp;rdquo;]
-slug        = &amp;ldquo;&amp;rdquo;;
-project_url = &amp;ldquo;&lt;a href=&#34;https://github.com/spf13/nitro&amp;quot;&#34;&gt;https://github.com/spf13/nitro&amp;quot;&lt;/a&gt;&lt;/p&gt;
+slug        = &amp;ldquo;&amp;rdquo;;&lt;/p&gt;
 
 &lt;p&gt;#はじめに&lt;/p&gt;
 </description>
